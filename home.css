@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+body{
+    background: url("/Users/prairayas/Desktop/Linkedin/bg.png") no-repeat;
+}
+h1{
+    color: white;
+    font-size: 90px;
+    text-align:center;
+    text-shadow: 2px 2px gray;
+    margin-top: 180px;
+    margin-bottom: 100px;
+}
+button{
+    font-size: 20px;
+    background-color: white;
+    border-radius: 5px;
+    border-color: white;
+    opacity: 0.8;
+    width: 100px;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+button:hover {
+    align-items: center;
+    cursor:pointer;
+    align-items: center;
+    font-size: 20px;
+    background-color:black;
+    color: white;
+    opacity: 0.8;
+    border-radius: 5px;
+    width: 100px;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+a {
+    text-decoration: none;
+    color: black;
+    align-items: center;
+    top: 50%;
+}
+a:hover {
+    text-decoration: none;
+    color: white;
+    align-items: center;
+    top: 50%;
+}
